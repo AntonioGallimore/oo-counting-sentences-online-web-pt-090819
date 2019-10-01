@@ -15,6 +15,6 @@ class String
   end
 
   def count_sentences
-    self.count_
+    self.count_sentences("#")
   end
 end
